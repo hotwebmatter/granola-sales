@@ -1,4 +1,5 @@
 ﻿using System;
+using static System.Console;
 
 namespace granola_sales
 {
@@ -6,7 +7,7 @@ namespace granola_sales
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            WriteLine("Hello World!");
         }
     }
 }
